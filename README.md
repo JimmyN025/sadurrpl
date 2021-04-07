@@ -1,3 +1,5 @@
-# sadurrpl APRPL
+# sadurrpl
 Analisa dan Perancangan RPL
-TI6A
+NIM : 1811500025
+Nama : Jimmy Ngui
+Kelompok : TI6A
